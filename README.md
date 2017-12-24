@@ -6,6 +6,8 @@
 
 Generate a chaotic writing effect in HTML by randomly transforming each letter.
 
+![How Pythonistas see Perl](preview.png)
+
 # OPTIONS
 
 - **--min-scale** \[_ratio_=_0.25_\]

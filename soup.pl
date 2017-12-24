@@ -55,6 +55,12 @@ B<soup.pl> [I<OPTIONS>] E<lt> I<input.txt> E<gt> I<output.html>
 
 Generate a chaotic writing effect in HTML by randomly transforming each letter.
 
+=begin markdown
+
+![How Pythonistas see Perl](preview.png)
+
+=end markdown
+
 
 =head1 OPTIONS
 
